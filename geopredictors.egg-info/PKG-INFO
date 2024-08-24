@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: geopredictors
+Version: 0.1
+Summary: A package for geo prediction. Contains Lithofacies classifier, permeability predictor
+Author: GEMS
+Author-email: yc4923@ic.ac.uk
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: lasio
+Requires-Dist: livelossplot
+Requires-Dist: matplotlib
+Requires-Dist: mrcnn
+Requires-Dist: scikit-image
