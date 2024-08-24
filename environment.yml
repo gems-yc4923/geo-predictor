@@ -1,0 +1,19 @@
+name: arcadia
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pip
+  - pytest
+  - flake8
+  - pandas
+  - numpy
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - Pillow
+  - python-kaleido
+  - pip:
+    - numpy
+    - -r requirements.txt

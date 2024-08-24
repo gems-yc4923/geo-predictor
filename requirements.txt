@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+scikit-learn
+xgboost
+lasio
+livelossplot
+matplotlib
+mrcnn
+scikit-image
